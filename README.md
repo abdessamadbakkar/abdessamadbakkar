@@ -8,13 +8,12 @@
 
 <!-- - 🔭 I’m currently working as Software Developer at **Ayour Concept** -->
 
-- 🌱 I’m currently learning **Advanced Laravel, Flutter, Kotlin**
+- 🌱 Currently working on ClockMate App
 
 <!-- - 👯 I’m currently working on a Flutter/Laravel Cross-platform App [Delphin](www.delphin.ma) -->
 
 - 👨‍💻 All of my projects are available at [www.abdessamadbakkar.com](https://www.abdessamadbakkar.com)
 
-- 💬 Ask me about **Laravel, Flutter, Kotlin**
 
 - 📫 How to reach me **abdessamadbakkar2002@gmail.com**
 
